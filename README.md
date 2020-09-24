@@ -8,3 +8,4 @@ Things that are needed for this are:
 - NodeJS (Latest version)
 - Visual Studio 2019
 - Angular Cli
+- Angular Cli DevKit
